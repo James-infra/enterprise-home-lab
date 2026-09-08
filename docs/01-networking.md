@@ -93,3 +93,6 @@ They do not independently verify:
 3. Obtain a client lease.
 4. Check the assigned DHCP server, gateway, and DNS server.
 5. Test DNS resolution and network connectivity.
+## Screenshot Evidence
+
+![VMware network verification](../vmware-network-verification.png)
